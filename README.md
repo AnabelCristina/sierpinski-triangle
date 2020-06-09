@@ -1,2 +1,2 @@
 # TrianguloDeSierpinski
-Triangulo de Sierpinski
+Triangulo de Sierpinski escrito em C usando SDL2.
