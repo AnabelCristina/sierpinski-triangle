@@ -104,12 +104,15 @@ Apesar do readme.md ser recente, o projeto foi criado em 2020 e o código reflet
 Alterando a linha **109** ("level = 3"), é possivel gerar diferentes fractais.
 
 Level = 3
+
 ![alt text](image.png)
 
 Level = 5
+
 ![alt text](image-2.png)
 
 Level = 6
+
 ![alt text](image-1.png)
 
 ---
