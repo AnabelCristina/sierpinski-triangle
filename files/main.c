@@ -106,7 +106,7 @@ void criaTriangulo (SDL_Renderer *renderer, int level, struct Ponto P1, struct  
 
 int main(int argc, char *argv[]){
 	
-	int level = 3;
+	int level = 10;
 	struct Ponto P1;
 	struct Ponto P2;
 	struct Ponto P3;
